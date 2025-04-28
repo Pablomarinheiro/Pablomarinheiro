@@ -1,0 +1,7 @@
+- 👋 Olá, sou @Pablomarinheiro
+- 👀 Tenho interesse em explorar o mundo do desenvolvimento de software, desde a lógica de programação até as tecnologias mais recentes. Estou particularmente curioso sobre desenvolvimento web e mobile.
+- 🌱 Atualmente estou aprendendo os fundamentos da programação, incluindo lógica de algoritmos, estruturas de dados e a linguagem Python. Também estou começando a ter contato com HTML, CSS e JavaScript.
+- 💞️ Estou buscando colaborar em projetos iniciantes e de aprendizado, onde possa aplicar meus conhecimentos básicos e aprender com outros desenvolvedores. Qualquer oportunidade de contribuir para um projeto open source ou um pequeno projeto pessoal seria muito bem-vinda!
+- 📫 Você pode me contatar através do meu e-mail: pabloeduraimundo@gmail.com ou pelo meu perfil do LinkedIn: www.linkedin.com/in/pablinn
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Adoro aprender sobre novas tecnologias e acredito que a programação é uma ferramenta poderosa para resolver problemas do mundo real.
