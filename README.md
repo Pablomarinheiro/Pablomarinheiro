@@ -1,7 +1,37 @@
-- 👋 Olá, sou @Pablomarinheiro
-- 👀 Tenho interesse em explorar o mundo do desenvolvimento de software, desde a lógica de programação até as tecnologias mais recentes. Estou particularmente curioso sobre desenvolvimento web e mobile.
-- 🌱 Atualmente estou aprendendo os fundamentos da programação, incluindo lógica de algoritmos, estruturas de dados e a linguagem Python. Também estou começando a ter contato com HTML, CSS e JavaScript.
-- 💞️ Estou buscando colaborar em projetos iniciantes e de aprendizado, onde possa aplicar meus conhecimentos básicos e aprender com outros desenvolvedores. Qualquer oportunidade de contribuir para um projeto open source ou um pequeno projeto pessoal seria muito bem-vinda!
-- 📫 Você pode me contatar através do meu e-mail: pabloeduraimundo@gmail.com ou pelo meu perfil do LinkedIn: www.linkedin.com/in/pablinn
+# 👋 Olá! Eu sou o Pablo Marinheiro
+
+🎯 Desenvolvedor em formação, explorando o universo da tecnologia e apaixonado por resolver problemas com código.
+
+---
+
+## 🚀 Sobre mim
+
+- 👨‍💻 Estou iniciando minha jornada no desenvolvimento de software.
+- 🌱 Atualmente estudando:
+  - Lógica de programação
+  - Estruturas de dados
+  - Linguagem **Python**
+  - **HTML**, **CSS** e **JavaScript**
+- 👀 Tenho grande interesse em desenvolvimento **web** e **mobile**.
+- 🤝 Buscando colaborar com projetos de aprendizado, open source ou pessoais.
+
+---
+
+## 📫 Contato
+
+- 📧 E-mail: [pabloeduraimundo@gmail.com](mailto:pabloeduraimundo@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/pablinn](https://www.linkedin.com/in/pablinn)
+
+---
+
+## 💡 Curiosidades
+
+- ⚡ Curioso por novas tecnologias.
+- 🧠 Acredito que a programação é uma ferramenta poderosa para **transformar ideias em soluções reais**.
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Adoro aprender sobre novas tecnologias e acredito que a programação é uma ferramenta poderosa para resolver problemas do mundo real.
+
+---
+
+## ✨ Buscando oportunidades
+
+Estou aberto a participar de projetos que me ajudem a aplicar e reforçar os conceitos que estou aprendendo. Se tiver alguma ideia ou projeto e quiser ajuda, **vamos conversar!**
