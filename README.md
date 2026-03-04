@@ -103,16 +103,16 @@ Estou direcionando minha carreira para o **Desenvolvimento Full Stack**, com foc
 | 🤖 Prompting Responsável | — |
 | 💻 Sistemas de TI | — |
 | 🌐 HTML, CSS e JavaScript | — |
-| 🔗 Desvendando a Blockchain | — |
-| 🤖 Ética na Inteligência Artificial | — |
-| 🛡️ Privacidade e Proteção de Dados (LGPD) | — |
-| 📡 Desvendando o 5G | — |
+| 🔗 Desvendando a Blockchain | Senai |
+| 🤖 Ética na Inteligência Artificial | Senai |
+| 🛡️ Privacidade e Proteção de Dados (LGPD) | Senai |
+| 📡 Desvendando o 5G | Senai |
 | 💻 Imersão Dev 9ª edição | Alura |
 | 🤖 Imersão IA 3ª edição | Alura |
 | 🧩 Introdução a POO | — |
 | 🐘 Intermediário de PHP | — |
-| 🔒 Prevenção e Reação a Incidentes Cibernéticos | — |
-| ⚖️ Regulamentação da LGPD e Atuação da ANPD | — |
+| 🔒 Prevenção e Reação a Incidentes Cibernéticos | Senai |
+| ⚖️ Regulamentação da LGPD e Atuação da ANPD | Senai |
 
 </details>
 
